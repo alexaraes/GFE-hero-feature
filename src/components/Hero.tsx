@@ -1,4 +1,4 @@
-import { RiCheckboxCircleFill, RiCheckLine } from "react-icons/ri";
+import { RiCheckLine } from "react-icons/ri";
 
 const Hero = () => {
     return (
@@ -35,7 +35,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="md:w-3/6">
-                    <img src="prism.png" />
+                    <img src="/GFE-hero-feature/prism.png" />
                 </div>
             </div>
         </div>
